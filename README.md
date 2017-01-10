@@ -13,4 +13,4 @@
 - websocketLogic为模式1的执行方法；websocketLogic2为模式2的执行方法
 
 ## 效果图
-![](http://ogbrn31xz.bkt.clouddn.com/QQ%E6%88%AA%E5%9B%BE20170110151513.jpg)
+![](http://ogbrn31xz.bkt.clouddn.com/QQ%E6%88%AA%E5%9B%BE20170110151807.png)
